@@ -1,12 +1,13 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Carolina Sampaio Website
-
+title:
+date: 2022-10-24
+type: landing
 
 sections:
   - block: hero
     content:
-      title: test
+      title: Hugo Academic Theme
       image:
         filename: hero-academic.png
       cta:
