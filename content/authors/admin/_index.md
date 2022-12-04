@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Carol Wu 吳恩達
+title: Carol Sampaio
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Carolina
+last_name: Sampaio
 
 # Status emoji
 status:
