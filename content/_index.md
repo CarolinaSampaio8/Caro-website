@@ -1,8 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: lalala
-date: 2022-10-24
-type: landing
+title: Carolina Sampaio Website
+
 
 sections:
   - block: hero
