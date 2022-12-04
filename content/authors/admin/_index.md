@@ -1,34 +1,34 @@
 ---
 # Display name
-title: Carolina Sampaio
+title: Carol Wu 吳恩達
 
 # Full name (for SEO)
-first_name: Carolina
-last_name: Sampaio
+first_name: Alice
+last_name: Wu
 
 # Status emoji
-status: It's fine
+status:
   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Business Analyst II
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: AMAZON
-    url: https://www.linkedin.com/in/carolinasferreira8/
+  - name: Stanford University
+    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include 1, 2 and 3.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Data Science
-  - Business Analytical 
-  - Music & TV shows
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 # Education to show in About widget
 education:
