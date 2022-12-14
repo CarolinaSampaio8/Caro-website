@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Business Anlytics II
+role: Business Anlytics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -79,6 +79,3 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Carolina is a Business Analyst at Amazon. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
