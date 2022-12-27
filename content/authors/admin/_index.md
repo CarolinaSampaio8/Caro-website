@@ -14,34 +14,31 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Business Anlytics
+role: Business Anlytics II
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name:   Amazon Logistics 
+    url: https://logistics.amazon.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Scince
+  - Business Intelligence 
+  - Data Analitics 
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Industrial Engineer and Management 
+      institution: FEUP (Porto University)
+      year: 2017
+    - course: BSc in Industrial Engineer and Management 
+      institution: FCTUC (Coimbra)
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -79,4 +76,4 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
- Hi, I'm an Industrial and Management 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 from Faculdade de Engenharia da Universidade do Porto (𝗙𝗘𝗨𝗣) currently working at 𝗔𝗺𝗮𝘇𝗼𝗻,  world’s largest online marketplace as Business Analyst I. Currently working at  **Amazon Logistics package fulfillment optimization** team. The team's mission is to constantly build new system’s learnings and insights and to propose new processes and best practices to the AMZL EU wider volume planning team, all year-round; on behalf of the customer.
+ Hi, I'm an Industrial and Management 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 from Faculdade de Engenharia da Universidade do Porto (𝗙𝗘𝗨𝗣) currently working at 𝗔𝗺𝗮𝘇𝗼𝗻,  world’s largest online marketplace as Business Analyst II. Currently working at  **Amazon Logistics package fulfillment optimization** team. The team's mission is to constantly build new system’s learnings and insights and to propose new processes and best practices to the AMZL EU wider volume planning team, all year-round; on behalf of the customer.
