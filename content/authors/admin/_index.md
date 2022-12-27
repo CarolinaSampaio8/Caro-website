@@ -26,7 +26,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Data Scince
+  - Data Science
   - Business Intelligence 
   - Data Analitics 
 
@@ -48,15 +48,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -76,4 +67,4 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
- Hi, I'm an Industrial and Management 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 from Faculdade de Engenharia da Universidade do Porto (𝗙𝗘𝗨𝗣) currently working at 𝗔𝗺𝗮𝘇𝗼𝗻,  world’s largest online marketplace as Business Analyst II. Currently working at  **Amazon Logistics package fulfillment optimization** team. The team's mission is to constantly build new system’s learnings and insights and to propose new processes and best practices to the AMZL EU wider volume planning team, all year-round; on behalf of the customer.
+ Hi, I'm an Industrial and Management 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 from Faculdade de Engenharia da Universidade do Porto (𝗙𝗘𝗨𝗣) currently working at 𝗔𝗺𝗮𝘇𝗼𝗻,  world’s largest online marketplace as Business Analyst II. Her role in   **Amazon Logistics package fulfillment optimization** team is to constantly build new system’s learnings and insights and to propose new processes and best practices to the AMZL EU wider volume planning team, all year-round; on behalf of the customer.
